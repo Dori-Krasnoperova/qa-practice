@@ -12,3 +12,16 @@
 🗂️ Примеры:
 - `br-001-login-invalid.md`
 - `br-002-form-not-responding.md`
+  
+📄 Список багов по модулю "Основы тестирования Web-приложений":  
+В этом блоке собраны баги, найденные при тестировании поля ввода имени на учебной странице.
+
+- [br-001-leading-space-greeting.md](br-001-leading-space-greeting.md)
+- [br-002-trailing-space-greeting.md](br-002-trailing-space-greeting.md)
+- [br-003-invalid-char-start-greeting.md](br-003-invalid-char-start-greeting.md)
+- [br-004-invalid-char-end-greeting.md](br-004-invalid-char-end-greeting.md)
+- [br-005-invalid-char-both-ends-greeting.md](br-005-invalid-char-both-ends-greeting.md)
+
+📌 Все баги были обнаружены при работе с формой на странице модуля 1.  
+Оформлены по шаблону: шаги, фактический и ожидаемый результат, окружение.
+
