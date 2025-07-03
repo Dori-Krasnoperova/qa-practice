@@ -222,3 +222,17 @@
 
 ---
 
+## ✏️ Заметки по модулю «Тестирование форм регистрации»
+
+---
+
+## Тестирование поля «e-mail»
+
+### Полезные сервисы
+- **Сервис валидации email-адресов:** https://validate.smtp.bz/
+- **Проверка сложности паролей:**  
+  - Haystack: https://www.grc.com/haystack.htm  
+  - Passcheck: https://exploit.in/passcheck/
+
+
+
