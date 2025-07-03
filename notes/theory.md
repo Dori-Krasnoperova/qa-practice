@@ -233,6 +233,7 @@
 - **Проверка сложности паролей:**  
   - Haystack: https://www.grc.com/haystack.htm  
   - Passcheck: https://exploit.in/passcheck/
+- **Чек-лист проверки поля email:** [CL-002](cl-002-email-field-checks.md)
 
 
 
